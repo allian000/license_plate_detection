@@ -1,0 +1,5 @@
+venv/
+car/
+test/
+runs/
+*jpg

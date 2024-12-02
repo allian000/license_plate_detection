@@ -1,0 +1,5 @@
+train: D:/LICENSE_PLATE_DETECTION/CAR/train/images
+val: D:/LICENSE_PLATE_DETECTION/CAR/valid/images
+
+nc: 1
+names: ['license_plate']
