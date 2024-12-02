@@ -4,7 +4,7 @@
 ## 安裝
 下鮺這個專案
 ```shell
-git clone $this_repo
+git clone https://github.com/allian000/license_plate_detection.git
 ```
 
 安裝必要套件
